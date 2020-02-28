@@ -1,15 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
+
 
 public class LizardMovement : MonoBehaviour
 {
     public LizardController controller;
     public Animator animator;
 
-    float horizontalMove = 0f;
+    public static float horizontalMove = 0f;
     public float speed = 40f;
+    void Start()
+    {
 
+    }
     // Update is called once per frame
     void Update()
     {
