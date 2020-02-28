@@ -5,6 +5,8 @@ using UnityEngine.UI;
 using UnityEngine.UIElements;
 
 
+///Displays text on the UI based on public static variables
+///Need to come back and set this to specific transform based on position relative to the Canvas.
 
 public class DisplaySpeed : MonoBehaviour
 {
