@@ -98,10 +98,10 @@ TextureImporter:
       name: Lizard Idle_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 24
+        x: 0
+        y: 25
         width: 215
-        height: 210
+        height: 218
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -116,34 +116,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Idle_2
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 25
-        width: 215
-        height: 210
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e4fa29064a7475d0800000000000000
-      internalID: -3065691005112355613
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Lizard Idle_1
       rect:
         serializedVersion: 2
-        x: 470
+        x: 236
         y: 25
-        width: 202
-        height: 210
+        width: 215
+        height: 218
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,6 +132,27 @@ TextureImporter:
       bones: []
       spriteID: fb394d119e08c1be0800000000000000
       internalID: -1505186436933708865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Idle_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 25
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4fa29064a7475d0800000000000000
+      internalID: -3065691005112355613
       vertices: []
       indices: 
       edges: []
